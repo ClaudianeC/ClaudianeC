@@ -11,7 +11,11 @@
   
  ![Linguagem](https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg)![mylogo (55)](https://user-images.githubusercontent.com/82064087/124011549-82ffa780-d9b6-11eb-9025-67973dd31e02.jpg)![python logo678](https://user-images.githubusercontent.com/82064087/124034639-ddf2c800-d9d1-11eb-866c-696864892a46.jpg)
 
-:mailbox_closed:<FONT COLOR="#808080">Contatos:</FONT>
+:mailbox_closed: <FONT COLOR="#808080">Contatos:</FONT>
+  
+
+
+[gmaillogo](https://user-images.githubusercontent.com/82064087/124036267-1dbaaf00-d9d4-11eb-9587-e36e232a0835.png)
 
 
 <!--
