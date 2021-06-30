@@ -5,7 +5,7 @@
 
 
   
- > Ola, sou uma dev junior, nos primeiros semestres da faculdade de ADS (Analise e Desenvolvimento de Sistemas),
+<i class="fi-rr-eye"></i> > Ola, sou uma dev junior, nos primeiros semestres da faculdade de ADS (Analise e Desenvolvimento de Sistemas),
  > aprofundando em linguagens de alto nivel como Python, JAVA e MySQL.<h5>
   
  
