@@ -9,7 +9,11 @@
   
 :desktop_computer: <font SIZE="6" color="#808080">Linguagens</font>
   
- ![Linguagem](https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg)![mylogo (55)](https://user-images.githubusercontent.com/82064087/124011549-82ffa780-d9b6-11eb-9025-67973dd31e02.jpg)![python logo678](https://user-images.githubusercontent.com/82064087/124034639-ddf2c800-d9d1-11eb-866c-696864892a46.jpg)
+
+![mylogo (2)](https://user-images.githubusercontent.com/82064087/124040828-0da6cd80-d9dc-11eb-9d6b-86fa09d60b64.jpg)![python logo33](https://user-images.githubusercontent.com/82064087/124040856-1d261680-d9dc-11eb-9072-7167ba87ee7c.png)![javal77](https://user-images.githubusercontent.com/82064087/124040900-3202aa00-d9dc-11eb-8bdd-73825b78582e.jpg)
+
+
+
 
 :mailbox_closed: <font SIZE="6" color="#808080">Contatos:</font>
   
