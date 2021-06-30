@@ -14,9 +14,10 @@
 :mailbox_closed: <FONT COLOR="#808080">Contatos:</FONT>
   
 
+<a href="mailto:princesad341@gmail.com" mailto="princesad341@gmail.com" target="_blank">
+<img src=https://user-images.githubusercontent.com/82064087/124039200-d8e54700-d9d8-11eb-9dce-04334a8af6bc.png alt="Gmail">
+ 
 
-
-![gmaillogo54](https://user-images.githubusercontent.com/82064087/124037649-4348b800-d9d6-11eb-85b0-be2da54bac36.png)[Gmai]("http://mailto:princesad341@gmail.com") 
 
 
 <!--
