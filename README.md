@@ -4,7 +4,6 @@
 ![nome3](https://user-images.githubusercontent.com/82064087/124029522-9e28e200-d9cb-11eb-94d4-e8d49d2a23d2.png)
 
 <i class="fi-rr-eye"></i>
-
 > Ola, sou uma dev junior, nos primeiros semestres da faculdade de ADS (Analise e Desenvolvimento de Sistemas),
 > aprofundando em linguagens de alto nivel como Python, JAVA e MySQL.<h5>
   
