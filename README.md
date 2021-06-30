@@ -1,6 +1,8 @@
 
 
-![image](https://user-images.githubusercontent.com/82064087/124010390-251e9000-d9b5-11eb-95ac-77be31afd4e6.png)
+
+![nome3](https://user-images.githubusercontent.com/82064087/124029522-9e28e200-d9cb-11eb-94d4-e8d49d2a23d2.png)
+
 
   
  > Ola, sou uma dev junior, nos primeiros semestres da faculdade de ADS (Analise e Desenvolvimento de Sistemas),
