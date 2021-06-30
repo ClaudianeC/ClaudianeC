@@ -3,12 +3,12 @@
 
 ![nome3](https://user-images.githubusercontent.com/82064087/124029522-9e28e200-d9cb-11eb-94d4-e8d49d2a23d2.png)
 
-:stuck_out_tongue_winking_eye:
+
 > Ola, sou uma dev junior, nos primeiros semestres da faculdade de ADS (Analise e Desenvolvimento de Sistemas),
 > aprofundando em linguagens de alto nivel como Python, JAVA e MySQL.<h5>
   
  
- * Linguagens: <h3>
+  :desktop_computer:Linguagens: <h3>
  ![Linguagem](https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg)
  
 
