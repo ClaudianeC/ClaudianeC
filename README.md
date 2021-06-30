@@ -16,7 +16,7 @@
 
 
 
-![gmaillogo54](https://user-images.githubusercontent.com/82064087/124037649-4348b800-d9d6-11eb-85b0-be2da54bac36.png)[Gmail]("mailto:princesad341@gmail.com") 
+![gmaillogo54](https://user-images.githubusercontent.com/82064087/124037649-4348b800-d9d6-11eb-85b0-be2da54bac36.png)[Gmai]("http://mailto:princesad341@gmail.com") 
 
 
 <!--
