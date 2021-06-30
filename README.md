@@ -7,11 +7,11 @@
 > Ola, sou uma dev junior, nos primeiros semestres da faculdade de ADS (Analise e Desenvolvimento de Sistemas),
 > aprofundando em linguagens de alto nivel como Python, JAVA e MySQL.<h5>
   
-:desktop_computer: <FONT SIZE="6" COLOR="#808080">Linguagens</FONT>
+:desktop_computer: <font SIZE="6" color="#808080">Linguagens</font>
   
  ![Linguagem](https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg)![mylogo (55)](https://user-images.githubusercontent.com/82064087/124011549-82ffa780-d9b6-11eb-9025-67973dd31e02.jpg)![python logo678](https://user-images.githubusercontent.com/82064087/124034639-ddf2c800-d9d1-11eb-866c-696864892a46.jpg)
 
-:mailbox_closed: <FONT SIZE="6" COLOR="#808080">Contatos:</FONT>
+:mailbox_closed: <font SIZE="6" color="#808080">Contatos:</font>
   
 
 <a href="mailto:princesad341@gmail.com" mailto="princesad341@gmail.com" target="_blank">
