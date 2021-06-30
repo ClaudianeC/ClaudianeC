@@ -7,8 +7,8 @@
 > Ola, sou uma dev junior, nos primeiros semestres da faculdade de ADS (Analise e Desenvolvimento de Sistemas),
 > aprofundando em linguagens de alto nivel como Python, JAVA e MySQL.<h5>
   
- <FONT FACE=Times COLOR="#808080">Fonte Times azul</FONT><h3>
-  :desktop_computer: 
+:desktop_computer: <FONT FACE=Times COLOR="#808080">Linguagens</FONT><h3>
+  
  ![Linguagem](https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg)![mylogo (55)](https://user-images.githubusercontent.com/82064087/124011549-82ffa780-d9b6-11eb-9025-67973dd31e02.jpg)![python logo678](https://user-images.githubusercontent.com/82064087/124034639-ddf2c800-d9d1-11eb-866c-696864892a46.jpg)
 
 <FONT COLOR="#808080">Contatos:</FONT>
