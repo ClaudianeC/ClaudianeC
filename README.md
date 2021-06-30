@@ -15,7 +15,7 @@
   
 
 
-[gmaillogo](https://user-images.githubusercontent.com/82064087/124036267-1dbaaf00-d9d4-11eb-9587-e36e232a0835.png)
+![gmaillogo](https://user-images.githubusercontent.com/82064087/124036267-1dbaaf00-d9d4-11eb-9587-e36e232a0835.png)[Gmail] 
 
 
 <!--
