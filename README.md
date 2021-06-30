@@ -9,7 +9,8 @@
   
  
   :desktop_computer: Linguagens: <h3>
- ![Linguagem](https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg)![mylogo (55)](https://user-images.githubusercontent.com/82064087/124011549-82ffa780-d9b6-11eb-9025-67973dd31e02.jpg)![python logo (33)](https://user-images.githubusercontent.com/82064087/124011983-fd302c00-d9b6-11eb-8556-cabff383ff82.png)
+ ![Linguagem](https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg)![mylogo (55)](https://user-images.githubusercontent.com/82064087/124011549-82ffa780-d9b6-11eb-9025-67973dd31e02.jpg)![python logo678](https://user-images.githubusercontent.com/82064087/124034639-ddf2c800-d9d1-11eb-866c-696864892a46.jpg)
+
 
 
 
