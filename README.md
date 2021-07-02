@@ -4,7 +4,7 @@
 ![nome3](https://user-images.githubusercontent.com/82064087/124029522-9e28e200-d9cb-11eb-94d4-e8d49d2a23d2.png)
 
 
-> Ola, sou uma dev back-end, nos primeiros semestres da faculdade de ADS (Analise e Desenvolvimento de Sistemas),
+> Ola :vulcan_salute:, sou uma dev back-end, nos primeiros semestres da faculdade de ADS (Analise e Desenvolvimento de Sistemas),
 > aprofundando em linguagens de alto nivel como Python, JAVA e MySQL.<h5>
 ____________________________________________________________________________________________________________________________________________________  
 <img align=right src="https://user-images.githubusercontent.com/82064087/124305346-5a54ea80-db3b-11eb-9ebb-40a094beab86.png"/> 
