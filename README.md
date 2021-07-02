@@ -12,11 +12,11 @@ ________________________________________________________________________________
 
 
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   ▁▂▂▃▃▃
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   ▁▂▂▃
  
  
  
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>  ▁▂▂▃▅▇▇▇▇▇▇▇▇▇▇▇▇  
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>  ▁▂▂▃▅▇▇▇▇▇▇▇▇▇▇  
  
  
  
