@@ -18,8 +18,8 @@ ________________________________________________________________________________
 
 
 ___________________________________________________________________________________________________________________________________________________
-<img src="https://user-images.githubusercontent.com/82064087/124297074-0fce7080-db31-11eb-8d14-f4bccf2f5cfd.png"/>
-
+<img src="https://user-images.githubusercontent.com/82064087/124298391-933c9180-db32-11eb-9fbc-6b252f01c42e.png"/>
+ 
 <a href="mailto:princesad341@gmail.com" mailto="princesad341@gmail.com" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail">
 
