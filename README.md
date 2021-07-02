@@ -8,8 +8,9 @@
 > aprofundando em linguagens de alto nivel como Python, JAVA e MySQL.<h5>
 ____________________________________________________________________________________________________________________________________________________  
 
-<img src="https://user-images.githubusercontent.com/82064087/124295546-57ec9380-db2f-11eb-90c2-63c24d10899d.png"/>
-<font SIZE="6" color="#808080">Linguagens:</font>
+<img src="https://user-images.githubusercontent.com/82064087/124296740-ad757000-db30-11eb-9076-8348ea1af450.png"/>
+
+
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
