@@ -12,14 +12,16 @@ ________________________________________________________________________________
 
 
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> ░░
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   ▁▂▂▃▃▃
  
  
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>░░░░░░░░░░
+ 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>  ▁▂▂▃▅▇▇▇▇▇▇▇▇▇▇▇▇  
  
  
-<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
+ 
+<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>  ▁▂▂▃▅▇▇▇▇▇▇▇▇▇▇
+ 
 
 ___________________________________________________________________________________________________________________________________________________
 <img src="https://user-images.githubusercontent.com/82064087/124298391-933c9180-db32-11eb-9fbc-6b252f01c42e.png"/>
