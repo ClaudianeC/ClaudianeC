@@ -10,8 +10,9 @@ ________________________________________________________________________________
 :desktop_computer: <font SIZE="6" color="#808080">Linguagens:</font>
 
   
-
-![mylogo (2)](https://user-images.githubusercontent.com/82064087/124040828-0da6cd80-d9dc-11eb-9d6b-86fa09d60b64.jpg)![python logo33](https://user-images.githubusercontent.com/82064087/124040856-1d261680-d9dc-11eb-9072-7167ba87ee7c.png)![javal77](https://user-images.githubusercontent.com/82064087/124040900-3202aa00-d9dc-11eb-8bdd-73825b78582e.jpg)
+<img src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/ios-glyphs/60/000000/python.png"/>
 
 
 ___________________________________________________________________________________________________________________________________________________
