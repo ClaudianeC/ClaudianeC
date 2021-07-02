@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 
 <img  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   ▁▂▂▃
-<img align=right src="https://user-images.githubusercontent.com/82064087/124305346-5a54ea80-db3b-11eb-9ebb-40a094beab86.png"/> 
+
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>  ▁▂▂▃▅▇▇▇▇▇▇▇▇▇▇  
  
