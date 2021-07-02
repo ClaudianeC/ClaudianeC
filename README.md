@@ -19,8 +19,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________
 
-:mailbox_closed: <font SIZE="6" color="#808080">Contatos:</font>
-  
+<img src="https://user-images.githubusercontent.com/82064087/124296853-cc740200-db30-11eb-94e0-78f2bf9b9664.png"/>
 
 <a href="mailto:princesad341@gmail.com" mailto="princesad341@gmail.com" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail">
