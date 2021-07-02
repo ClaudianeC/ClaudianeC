@@ -7,12 +7,12 @@
 > Ola, sou uma dev back-end, nos primeiros semestres da faculdade de ADS (Analise e Desenvolvimento de Sistemas),
 > aprofundando em linguagens de alto nivel como Python, JAVA e MySQL.<h5>
 ____________________________________________________________________________________________________________________________________________________  
-
+<img align=right src="https://user-images.githubusercontent.com/82064087/124305346-5a54ea80-db3b-11eb-9ebb-40a094beab86.png"/> 
 <img src="https://user-images.githubusercontent.com/82064087/124296740-ad757000-db30-11eb-9076-8348ea1af450.png"/>
 
 
 
-<img align=left src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   ▁▂▂▃
+<img  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   ▁▂▂▃
 <img align=right src="https://user-images.githubusercontent.com/82064087/124305346-5a54ea80-db3b-11eb-9ebb-40a094beab86.png"/> 
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>  ▁▂▂▃▅▇▇▇▇▇▇▇▇▇▇  
