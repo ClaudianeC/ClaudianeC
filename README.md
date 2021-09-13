@@ -11,6 +11,8 @@
 ____________________________________________________________________________________________________________________________________________________  
 <img align=right src="https://user-images.githubusercontent.com/82064087/124305346-5a54ea80-db3b-11eb-9ebb-40a094beab86.png"/> 
 <img src="https://user-images.githubusercontent.com/82064087/124296740-ad757000-db30-11eb-9076-8348ea1af450.png"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudianeC&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
