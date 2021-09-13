@@ -12,7 +12,7 @@ ________________________________________________________________________________
 <img align=right src="https://user-images.githubusercontent.com/82064087/124305346-5a54ea80-db3b-11eb-9ebb-40a094beab86.png"/> 
 <img src="https://user-images.githubusercontent.com/82064087/124296740-ad757000-db30-11eb-9076-8348ea1af450.png"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudianeC&langs_count=10&theme=monokai&layout=compact" alt="AnhellO :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudianeC&langs_count=13&theme=monokai&layout=compact" alt="AnhellO :: Top Langs" />
 
 
 
