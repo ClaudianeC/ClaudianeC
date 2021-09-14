@@ -12,9 +12,7 @@
 ____________________________________________________________________________________________________________________________________________________  
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudianeC&langs_count=13&theme=monokai&layout=compact" alt="AnhellO :: Top Langs" />
-
-                                          ![Eu (1)77](https://user-images.githubusercontent.com/82064087/133174247-c3e76360-73af-4953-b0ad-18a75e7728cf.png)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudianeC&langs_count=13&theme=monokai&layout=compact" alt="AnhellO :: Top Langs" /> ![Eu (1)77](https://user-images.githubusercontent.com/82064087/133174247-c3e76360-73af-4953-b0ad-18a75e7728cf.png)
 
 
 <img  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>  
