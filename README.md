@@ -1,7 +1,8 @@
 
 
 
-![nome3](https://user-images.githubusercontent.com/82064087/124029522-9e28e200-d9cb-11eb-94d4-e8d49d2a23d2.png)
+![Nome2](https://user-images.githubusercontent.com/82064087/133173362-8518c216-cbd1-4359-a7d8-77a1b58b6465.png)
+
 
 
 > Ola :vulcan_salute:, sou uma dev back-end, nos primeiros semestres da faculdade de ADS (Analise e Desenvolvimento de Sistemas),
