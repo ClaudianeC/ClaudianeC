@@ -6,8 +6,8 @@
 
 
 
-> Ola :vulcan_salute:, sou uma dev back-end, nos primeiros semestres da faculdade de ADS (Analise e Desenvolvimento de Sistemas),
-> aprofundando em linguagens de alto nivel como Python, JAVA e MySQL.<h5>
+ Ola :vulcan_salute:, sou uma dev back-end, nos primeiros semestres da faculdade de ADS (Analise e Desenvolvimento de Sistemas),
+ aprofundando em linguagens de alto nivel como Python, JAVA e MySQL.<h5>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudianeC&theme=monokai&show_icons=true)
 
 ____________________________________________________________________________________________________________________________________________________  
