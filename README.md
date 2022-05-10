@@ -29,11 +29,15 @@ ________________________________________________________________________________
  
 <a href="mailto:cçaudicostta416@gmail.com" mailto="princesad341@gmail.com" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail">
-
 </a>
   <a href="https://github.com/ClaudianeC" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </a>
+ </a>
+  <a href="https://www.linkedin.com/in/claudiane-costa-91a057219/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/82064087/167633999-f58dc942-5fe1-4070-929d-650362bd0cb9.png"/>
+</a>
+ 
 
 
 
