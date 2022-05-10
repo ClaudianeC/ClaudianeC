@@ -35,9 +35,10 @@ ________________________________________________________________________________
 </a>
  </a>
   <a href="https://www.linkedin.com/in/claudiane-costa-91a057219/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/82064087/167634259-a4024928-20a6-4941-ab88-9985a050be44.png"/>
+  <img src="https://user-images.githubusercontent.com/82064087/167634826-e4fe212a-44f3-473f-afa0-c6a0b70033ae.png"/>
 </a>
  
+
 
 
 
