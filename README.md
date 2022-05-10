@@ -18,11 +18,12 @@ ________________________________________________________________________________
  ![Eu (1)77](https://user-images.githubusercontent.com/82064087/133174247-c3e76360-73af-4953-b0ad-18a75e7728cf.png)
 
 
-<img  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>  
+<img  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>  <img src="https://user-images.githubusercontent.com/82064087/167633133-5fb0ce9f-abcb-40ea-bb22-6c684b31a7d4.png"/>
  
 
 ___________________________________________________________________________________________________________________________________________________
 ![contatos55](https://user-images.githubusercontent.com/82064087/133174744-21250a28-10f5-4647-afbe-6a9b08b6a96b.png)
+
 
 
  
